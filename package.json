@@ -1,0 +1,13 @@
+{
+  "name": "rn-stream",
+  "version": "0.1.0",
+  "private": true,
+  "description": "RN Stream Stremio add-on for Cloudflare Workers",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
